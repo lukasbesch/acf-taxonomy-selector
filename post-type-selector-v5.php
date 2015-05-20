@@ -132,7 +132,7 @@ class acf_field_post_type_selector extends acf_field {
 		// defaults?
 		$field = array_merge( $this->defaults, $field );
 				
-		$post_types = get_post_types( array(
+		$post_types = get_taxonomies( array(
 			'public' => true,
 		), 'objects' );
 		

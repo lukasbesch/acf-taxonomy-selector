@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Advanced Custom Fields: Post Type Selector
-Plugin URI: https://github.com/iceicetimmy/acf-post_type_selector
-Description: Provides the option to select a single or multiple post types
+Plugin Name: Advanced Custom Fields: Taxonomy Selector
+Plugin URI: https://github.com/lukasbesch/acf-taxonomy-selector
+Description: Provides the option to select a single or multiple taxonomies (not the Terms)
 Version: 1.0.0
 Author: Tim Perry
 Author URI: http://www.forepoint.co.uk
